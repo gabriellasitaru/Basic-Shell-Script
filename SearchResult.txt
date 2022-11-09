@@ -1,0 +1,5 @@
+/home/oltoshi/TestingWorld2019
+/home/oltoshi/StudentFiles/.Testing
+/home/oltoshi/StudentFiles/Testing
+/home/oltoshi/StudentFiles/Testing1
+/usr/share/cmake-3.5/Modules/Internal/FeatureTesting.cmake
